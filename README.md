@@ -1,6 +1,8 @@
 # Software Engineering Team 3 GitHub Page
 This is for the CS416 - Software Engineering course. Assignment 0.5: The upload of the Hello World scripts that everyone has made. Please refer to the folder for each respective language for where to publish your code.
 
+The file-naming convention is in each folder. 
+
 ---
 
 **NOTE:** All of these commands will be for **CMD** or **Git Bash**. If you are using another terminal, I'm sorry for your loss.
@@ -8,7 +10,7 @@ This is for the CS416 - Software Engineering course. Assignment 0.5: The upload 
 ## 1) How to clone the repo (first time only)
 
 ### A) Go to the folder you want the project to live in
-KNOW YOUR FILEPATH, DON'T JUST ASSUME ITS THE SAME 0_0
+KNOW YOUR FILEPATH, IT WILL NOT BE THE SAME 0_0
 
 **Windows**
 ```bash
