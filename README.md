@@ -1,5 +1,5 @@
 # Software Engineering Team 3 GitHub Page
-This is a hub of projects and assignments, allowing for version control and easy submission of work done for the CS416 - Software Engineering course.
+This is for the CS416 - Software Engineering course. Assignment 0.5: The upload of the Hello World scripts that everyone has made. Please refer to the folder for each respective language for where to publish your code.
 
 ---
 
